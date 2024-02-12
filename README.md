@@ -17,7 +17,10 @@ The main page shows photos and names of each sales rep. Clicking on a photo navi
 
 ## Data Sources
 
-The data source is a Star Schema database modeled from Adventure Works data with fact and dimensional tables sourced from a Kaggle dataset.
+The data source is a Star Schema database modeled from Adventure Works data with fact and dimensional tables sourced from a Kaggle dataset. You can also find the csv files in this repo
+
+![imagen](https://github.com/AbelSantos101/PowerBI-Adventure-Works-Sales-Dashboard/assets/136277941/b0a9fe70-fdd8-45ca-82ac-7a93f7482eef)
+
 
 ## Dashboard Structure
 
